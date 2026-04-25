@@ -38,5 +38,10 @@ streamlit run app.py
 ```
 
 ## App Screenshot
+
+### Home Screen 
+<img src="app.png" width="700">
+
+### Prediction result 
 <img src="app.png" width="700">
 ![App Screenshot](app.png)
