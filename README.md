@@ -38,4 +38,5 @@ streamlit run app.py
 ```
 
 ## App Screenshot
+<img src="app.png" width="700">
 ![App Screenshot](app.png)
