@@ -33,4 +33,7 @@ This project predicts whether a loan application will be approved or not using M
 
 ## 💻 How to Run
 ```bash
+cd c:/ml_project
 streamlit run app.py
+
+![App Screenshot](app.png)
